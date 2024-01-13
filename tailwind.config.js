@@ -5,6 +5,9 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    supports: {
+      grid: 'display: grid',
+    },
   },
   plugins: [],
 }
